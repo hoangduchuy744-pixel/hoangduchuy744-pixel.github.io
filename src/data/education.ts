@@ -1,6 +1,7 @@
 import nusLogo from '../assets/nus.png'
 import saLogo from '../assets/sa.png'
 import utLogo from '../assets/ut.png'
+import sampleLogo from '../assets/images.png'
 import zhonghuaLogo from '../assets/zhonghua.jpg'
 import type { EducationEntry } from '../types/portfolio'
 
@@ -10,7 +11,7 @@ export const education = [
     institution: 'The University of Texas at Austin',
     period: '2024 - 2026',
     specialization: 'Systems, Theory and Application Tracks',
-    logo: utLogo,
+    logo: sampleLogo,
     description: [
       'Academic Achievement: 3.9/4.0 (GPA)',
       'Goals & Aspirations: To become further specialised both technically and theoretically in the field of Computer Science',

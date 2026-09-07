@@ -6,7 +6,7 @@ export const sectionContent = {
     eyebrow: "ABOUT_PROTOCOL",
     title: "About Me",
     description:
-      "I build robust data pipelines, meaningful educational products and lasting connections with others in hope of creating a more caring-through-sharing world.",
+      "I am a boy.",
   },
   education: {
     eyebrow: "EDU_TIMELINE",
