@@ -1,6 +1,5 @@
 import nusLogo from '../assets/nus.png'
 import saLogo from '../assets/sa.png'
-import utLogo from '../assets/ut.png'
 import sampleLogo from '../assets/images.png'
 import zhonghuaLogo from '../assets/zhonghua.jpg'
 import type { EducationEntry } from '../types/portfolio'
